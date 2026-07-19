@@ -1,3 +1,33 @@
+<img width="939" height="742" alt="crowbar 5 PNG sensored" src="https://github.com/user-attachments/assets/0cc1f69d-0323-425e-9e22-eb1953e5b047" />
+<img width="602" height="38" alt="crowbar 4 PNG sensored" src="https://github.com/user-attachments/assets/f8f00ff3-8b00-405e-931f-1792045fbabf" />
+<img width="1648" height="321" alt="crowbar 3" src="https://github.com/user-attachments/assets/ff199cf2-7f7d-4d93-9ce0-9a51ac81883d" />
+<img width="1607" height="64" alt="crowbar 2 PNG sensored" src="https://github.com/user-attachments/assets/6b84b595-8ffb-414f-81f3-551b7556d161" />
+<img width="1607" height="64" alt="crowbar 2" src="https://github.com/user-attachments/assets/5e81fdae-fe5c-482d-bb67-ab6761e0d38e" />
+<img width="1903" height="908" alt="crowabar 6" src="https://github.com/user-attachments/assets/dcc6b46d-3a77-4fb5-90a9-ac872c4005d9" />
+<img width="970" height="589" alt="ticket3" src="https://github.com/user-attachments/assets/2466a02f-be20-4a9a-9ce2-192787e7ddd9" />
+<img width="1009" height="397" alt="ticket2" src="https://github.com/user-attachments/assets/5654e414-0f30-4db2-8bfa-02062c14e658" />
+<img width="1147" height="375" alt="ticket1" src="https://github.com/user-attachments/assets/d28755a1-f907-4bc6-b17d-9e4f384071f0" />
+<img width="1949" height="771" alt="real2" src="https://github.com/user-attachments/assets/e45f2a6c-43c6-4805-ae94-23de9cc7c930" />
+<img width="1897" height="787" alt="real1" src="https://github.com/user-attachments/assets/4e320e60-c8f7-413d-9a0a-f1bac5bb9615" />
+<img width="1907" height="778" alt="real 3 ip erased" src="https://github.com/user-attachments/assets/68650af7-1b32-4799-a936-2c019ec70acc" />
+<img width="1640" height="715" alt="new new 3" src="https://github.com/user-attachments/assets/29f23581-ae29-41d1-9256-dd061479cbc1" />
+<img width="1919" height="524" alt="new new 2" src="https://github.com/user-attachments/assets/0c5db1e4-d32e-4c82-a30c-1d0361c300cd" />
+<img width="976" height="444" alt="new new 1" src="https://github.com/user-attachments/assets/b1671a14-b68e-498d-a5d6-07c19d229b58" />
+<img width="763" height="155" alt="new day2" src="https://github.com/user-attachments/assets/84d346dc-93a6-425e-95e3-1ffff552b8c2" />
+<img width="1911" height="787" alt="new day1" src="https://github.com/user-attachments/assets/75de0ae3-5bc5-4082-966b-223086c2377f" />
+<img width="1019" height="289" alt="new 2" src="https://github.com/user-attachments/assets/46371eb5-d2f3-4769-8d5d-2dfce71cf29f" />
+<img width="951" height="223" alt="new 1" src="https://github.com/user-attachments/assets/3fc9917d-0d27-495c-8b28-681b368a915d" />
+<img width="729" height="294" alt="mythic3" src="https://github.com/user-attachments/assets/8a76546a-cd1a-49e8-bbde-8318471baf4d" />
+<img width="763" height="670" alt="mythic2" src="https://github.com/user-attachments/assets/ab68890b-fa4e-40b1-b0c5-450fc9d6e0f5" />
+<img width="858" height="645" alt="mythic1" src="https://github.com/user-attachments/assets/67f3ff1a-654e-4f69-8a74-1e3612886456" />
+<img width="838" height="748" alt="Logical diagram 1" src="https://github.com/user-attachments/assets/afa93c0f-fbc8-4d2c-bbdf-51c4761207e1" />
+<img width="606" height="45" alt="kibana" src="https://github.com/user-attachments/assets/283fbe55-bf24-4481-b83d-3be2dd141415" />
+<img width="706" height="46" alt="elasticsearch" src="https://github.com/user-attachments/assets/92dd7252-454e-4d34-8c22-2e29dc72af13" />
+<img width="1783" height="914" alt="elastic" src="https://github.com/user-attachments/assets/a62031e1-c9a4-4283-8522-b4c5b5dcc8b2" />
+<img width="1633" height="894" alt="elastic 2" src="https://github.com/user-attachments/assets/add4791f-0d2b-4471-a25f-447aa27670b2" />
+<img width="562" height="84" alt="day 344" src="https://github.com/user-attachments/assets/80b22cb9-f580-4c8a-b099-cf5cda10e36b" />
+<img width="1576" height="504" alt="day 3" src="https://github.com/user-attachments/assets/e0f6fd78-5b19-44ce-90b0-5cb719760d50" />
+<img width="614" height="41" alt="crowbar1 PNG sensored" src="https://github.com/user-attachments/assets/a36daf5e-8c0e-4118-ad63-6095271d4614" />
 # 🛡️ MyDFIR 30-Day SOC Analyst Challenge
 
 A fully documented, hands-on SOC environment built from scratch in the cloud over 30 days — following the [MyDFIR 30-Day SOC Analyst Challenge](https://www.youtube.com/playlist?list=PLG6KGSNK4PuBb0OjyDIdACZnb8AoNBeq6) by Steven at MyDFIR.
